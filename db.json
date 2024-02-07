@@ -1,0 +1,92 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "caption": "Harry Potter",
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/2sV7y7fx5bZEWkawXAj4XD-1200-80.jpg",
+      "url": "https://www.youtube.com/embed/6iCJ7FlkaB8"
+    },
+    {
+      "id": "2",
+      "caption": "Perks of being a wallflower",
+      "thumbnail": "https://m.media-amazon.com/images/S/pv-target-images/cf613f43e0d54b993dc4fb984334ee9ac72e8d26c7e238d48ad6ed6326e6d059.jpg",
+      "url": "https://www.youtube.com/embed/kMalrBgdRvI"
+    },
+    {
+      "id": "4",
+      "caption": "Anne Frank",
+      "thumbnail": "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABboBSbQX8Ptpuaajz_PcrtjIVdvyrMjCE-Qk1Y_Tyf4zFXZSj1PJqmfD916LkD3EPv8ZHaiEVSyc_IjtvqfIY2M36ALmIBygKHxr.jpg?r=9cf",
+      "url": "https://www.youtube.com/embed/1ygQATx7_4g"
+    },
+    {
+      "id": "3",
+      "caption": "Schindler's List",
+      "thumbnail": "https://cdn.theasc.com/Schindlers-List-Typing-the-List.jpg",
+      "url": "https://www.youtube.com/embed/Evzpx9hrLh8"
+    }
+  ],
+  "category": [
+    {
+      "id": "1",
+      "name": "Fantacy",
+      "allVideos": [
+        {
+          "id": "1",
+          "caption": "Harry Potter",
+          "thumbnail": "https://cdn.mos.cms.futurecdn.net/2sV7y7fx5bZEWkawXAj4XD-1200-80.jpg",
+          "url": "https://www.youtube.com/embed/6iCJ7FlkaB8"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "History",
+      "allVideos": [
+        {
+          "id": "3",
+          "caption": "Schindler's List",
+          "thumbnail": "https://cdn.theasc.com/Schindlers-List-Typing-the-List.jpg",
+          "url": "https://www.youtube.com/embed/Evzpx9hrLh8"
+        }
+      ]
+    }
+  ],
+  "watchhistory": [
+    {
+      "id": "9ab74d76-ebef-4370-bc24-abfd748c302f",
+      "cardname": "The Pianist",
+      "url": "https://www.youtube.com/embed/3ziikUYi03I",
+      "Date": "2024-02-06T00:15:38.642Z"
+    },
+    {
+      "id": "b0a20d7c-f46f-4ee5-8ca8-3f0d59956fe9",
+      "cardname": "Harry Potter",
+      "url": "https://www.youtube.com/embed/6iCJ7FlkaB8",
+      "Date": "2024-02-07T13:01:46.301Z"
+    },
+    {
+      "id": "6995e92d-7335-457e-8572-9ee49f71986a",
+      "cardname": "Perks of being a wallflower",
+      "url": "https://www.youtube.com/embed/kMalrBgdRvI",
+      "Date": "2024-02-07T13:01:53.039Z"
+    },
+    {
+      "id": "06b5da0e-a6ce-4d12-898e-69702405bc96",
+      "cardname": "Anne Frank",
+      "url": "https://www.youtube.com/embed/1ygQATx7_4g",
+      "Date": "2024-02-07T13:01:57.543Z"
+    },
+    {
+      "id": "3d68571f-cbc3-432c-afc9-546018f1df3b",
+      "cardname": "Harry Potter",
+      "url": "https://www.youtube.com/embed/6iCJ7FlkaB8",
+      "Date": "2024-02-07T14:00:56.382Z"
+    },
+    {
+      "id": "3bffc089-6f03-4978-beff-9b301b42d147",
+      "cardname": "Schindler's List",
+      "url": "https://www.youtube.com/embed/Evzpx9hrLh8",
+      "Date": "2024-02-07T14:02:04.970Z"
+    }
+  ]
+}
